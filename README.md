@@ -1,4 +1,6 @@
 # jeu-legende-anciens
+Projet cpp de Mila CHABASSIER
+
 
 L'histoire, classique, est codée sous la forme d'arbre. A chaque noeud, on trouve la description de l'étape de l'histoire ainsi que le niveau de l'ennemi que l'on rencontrera après cette étape. 
 
